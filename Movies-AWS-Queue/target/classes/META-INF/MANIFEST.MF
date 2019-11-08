@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Movies-AWS-Queue
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: davin
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Movies-AWS-Queue
+Created-By: Maven Integration for Eclipse
+
